@@ -1,0 +1,72 @@
+Colombia; Bogota; 500000;400000
+Venezuela;Caracas; 500;40000
+Chile; Santiago;5000000;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500000;400000
+Venezuela;Caracas; 500;40000
+Chile; Santiago;5000000;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500000;400000
+Venezuela;Caracas; 500;40000
+Chile; Santiago;5000000;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
+Colombia; Bogota; 500;40
+Venezuela;Caracas; 500;40
+Chile; Santiago;500;40
